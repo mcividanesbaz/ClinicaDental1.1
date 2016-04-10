@@ -11,5 +11,5 @@ setup(name="Clinica Dental",
       url="http://mundogeek.net/tutorial-python/",
       license="GPL",
       scripts=["setup.py"],
-      py_modules=["Metodos"]
+      py_modules=["Metodos.py"]
 )
